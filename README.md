@@ -23,11 +23,11 @@ private:
         EXIT,
     };
 
-    bool start();
-    bool add();
-    bool del();
-    bool edit();
-    bool exit();
+    void start();
+    void add();
+    void del();
+    void edit();
+    void exit();
 };
 ```
 
